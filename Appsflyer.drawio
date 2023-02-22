@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T11:47:26.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="BwkY_lQgkOWoXQSFPpAy" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T11:54:46.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="vHLVB-lhTBq6fWW4gJOr" version="20.8.22" type="github">
   <diagram name="Page-1" id="vQVTWZmMaEB45FMkIQ7d">
     <mxGraphModel dx="747" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -192,6 +192,9 @@
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-83" value="AF Deletion API - ASYNC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-86" value="Analysis for rate limit :&lt;br&gt;AF api = 2 for each deletion request&lt;br&gt;Worst case - User is on all Adidas ios, android app and Confirmed ios, Android app&lt;br&gt;Adidas - android - 2*2 = 4 request to api&lt;br&gt;Adidas - ios - 2*2 =4 request to api&lt;br&gt;Confirmed android - 2*2 - 4 request to api&lt;br&gt;Confirmed IOS - 2*2 - 4 request to api&lt;br&gt;In total : 4* 4 - 16 request for a user&lt;br&gt;&lt;br&gt;If user gets different identification euci( To be confirmed with Ravi ) for adidas and confirmed app : 16/2 = 8 request per user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="600" width="680" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
