@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T11:15:51.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="LhaK9Yce8s8AVXQbrXiF" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T11:22:40.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="0VBK_NPCj6WHLjxEBnVx" version="20.8.22" type="github">
   <diagram name="Page-1" id="vQVTWZmMaEB45FMkIQ7d">
     <mxGraphModel dx="747" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -18,41 +18,62 @@
         <mxCell id="Y6FfJB46YkExtziJTnNS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-1" target="Y6FfJB46YkExtziJTnNS-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y6FfJB46YkExtziJTnNS-1" value="Mobile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-2" target="Y6FfJB46YkExtziJTnNS-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y6FfJB46YkExtziJTnNS-2" value="Web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y6FfJB46YkExtziJTnNS-3" value="Adidas app&lt;br&gt;IOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y6FfJB46YkExtziJTnNS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-4" target="Y6FfJB46YkExtziJTnNS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-4" target="Y6FfJB46YkExtziJTnNS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-4" target="Y6FfJB46YkExtziJTnNS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-4" target="Y6FfJB46YkExtziJTnNS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-4" value="Adidas app&lt;br&gt;Android" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y6FfJB46YkExtziJTnNS-5" value="Confirmed app&lt;br&gt;Android" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y6FfJB46YkExtziJTnNS-6" value="Confirmed app&lt;br&gt;IOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y6FfJB46YkExtziJTnNS-7" value="Adidas&lt;br&gt;.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="Y6FfJB46YkExtziJTnNS-11" value="Appsflyer_AdidasAndroid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="65" width="140" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="Y6FfJB46YkExtziJTnNS-18" value="SFSC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="65" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="Y6FfJB46YkExtziJTnNS-19" value="Appsflyer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="35" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="Y6FfJB46YkExtziJTnNS-20" value="CPP Backend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-21" value="Appsflyer_AdidasIOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-22" value="Appsflyer_ConfirmedAndroid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-23" value="Appsflyer_ConfirmedIOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="317.5" width="140" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
