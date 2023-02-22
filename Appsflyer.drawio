@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T11:32:20.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="JFDmB2BeMOeygWJVLHXo" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T11:39:41.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="q6-KbKuhN8WwEURs69-2" version="20.8.22" type="github">
   <diagram name="Page-1" id="vQVTWZmMaEB45FMkIQ7d">
     <mxGraphModel dx="747" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -42,6 +42,16 @@
         <mxCell id="Y6FfJB46YkExtziJTnNS-7" value="Adidas&lt;br&gt;.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-11" value="Appsflyer_AdidasAndroid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="47.5" width="140" height="65" as="geometry" />
         </mxCell>
@@ -54,11 +64,41 @@
         <mxCell id="Y6FfJB46YkExtziJTnNS-20" value="CPP Backend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="20" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-21" value="Appsflyer_AdidasIOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="130" width="140" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="229" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-22" value="Appsflyer_ConfirmedAndroid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="212.5" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="364" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-23" value="Appsflyer_ConfirmedIOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="315" width="140" height="65" as="geometry" />
@@ -74,6 +114,12 @@
             <mxPoint x="400" y="420" as="sourcePoint" />
             <mxPoint x="400" y="60" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-48" target="Y6FfJB46YkExtziJTnNS-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-48" target="Y6FfJB46YkExtziJTnNS-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-48" value="User creates&amp;nbsp; requests, It comes to SF as Mobile only(No Android and IOS bifurcation)&lt;br&gt;&lt;br&gt;Case Origin : Mobile&lt;br&gt;&lt;br&gt;Sub Origin : Adidas App&lt;br&gt;and Confirmed App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="122.5" width="130" height="155" as="geometry" />
@@ -95,6 +141,42 @@
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-50" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Sub Origin : Confirmed App&lt;/span&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-67" value="Case placed by Android user, case gets COMPLETED with 200 OK response from API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="50" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-68" value="Case placed by IOS user, case gets COMPLETED with 404 NOT FOUND response from API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="80" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-69" value="Case placed by Android user, case gets COMPLETED with 200 OK response from API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="210" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-70" value="Case placed by IOS user, case gets COMPLETED with 200 OK response from API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="980" y="130" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-71" value="Case placed by IOS user, case gets COMPLETED with 200 OK response from API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="980" y="315" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-72" value="Case placed by Android user, case gets COMPLETED with 404 NOT FOUND response from API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="165" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-73" value="Case placed by IOS user, case gets COMPLETED with 404 NOT FOUND response from API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="247.5" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-74" value="Case placed by Android user, case gets COMPLETED with 404 NOT FOUND response from API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="350" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-75" value="Case placed by&amp;nbsp; user by both Android and IOS of Adidas app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="460" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-76" value="Case placed by&amp;nbsp; user by both Android and IOS of Confirmed app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="490" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-77" value="Case placed by&amp;nbsp; user by both Android and IOS of both Adidas and Confirmed app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="980" y="520" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-78" value="Other Possible cases for considering rate limit:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="420" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
