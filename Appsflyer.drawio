@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T04:18:54.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="Uxm2UBogdhKAlduUDoyC" version="21.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-05T12:05:10.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="XLbiDW4aH4uGqPGCymwK" version="21.3.7" type="github" pages="2">
   <diagram name="Page-1" id="vQVTWZmMaEB45FMkIQ7d">
-    <mxGraphModel dx="1034" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2130" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,24 @@
         <mxCell id="Y6FfJB46YkExtziJTnNS-6" value="Confirmed app&lt;br&gt;IOS&lt;br&gt;id1508115448" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6FfJB46YkExtziJTnNS-7" value="Adidas&lt;br&gt;.com&lt;br&gt;Not in Picture now" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-7" target="pKRV5UQxoQtMh8vTWJYj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-7" target="pKRV5UQxoQtMh8vTWJYj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6FfJB46YkExtziJTnNS-7" target="pKRV5UQxoQtMh8vTWJYj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pKRV5UQxoQtMh8vTWJYj-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="430" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="360" y="647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6FfJB46YkExtziJTnNS-7" value="Adidas&lt;br&gt;.com&lt;br&gt;[Additional case to be handled at CPP end]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="Y6FfJB46YkExtziJTnNS-11" edge="1">
@@ -167,22 +184,22 @@
           <mxGeometry x="960" y="350" width="540" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-75" value="Case placed by&amp;nbsp; user by both Android and IOS of Adidas app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="460" width="350" height="30" as="geometry" />
+          <mxGeometry x="1130" y="900" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-76" value="Case placed by&amp;nbsp; user by both Android and IOS of Confirmed app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1045" y="490" width="370" height="30" as="geometry" />
+          <mxGeometry x="1120" y="940" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-77" value="Case placed by&amp;nbsp; user by both Android and IOS of both Adidas and Confirmed app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="980" y="520" width="460" height="30" as="geometry" />
+          <mxGeometry x="1090" y="970" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-78" value="Other Possible cases for considering rate limit:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="420" width="270" height="30" as="geometry" />
+          <mxGeometry x="1170" y="860" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-81" value="AF Trigger Deletion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="450" width="120" height="30" as="geometry" />
+          <mxGeometry x="210" y="585" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-82" value="AF Check Status of Deletion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="515" width="120" height="30" as="geometry" />
+          <mxGeometry x="210" y="670" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Y6FfJB46YkExtziJTnNS-83" target="Y6FfJB46YkExtziJTnNS-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -191,13 +208,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-83" value="AF Deletion API - ASYNC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-86" value="Analysis for rate limit :&lt;br&gt;User in adidas is assigned a common EUCI which is applicable to all apps - As confirmed by Ravi&lt;br&gt;AF api = 2 for each deletion request&lt;br&gt;Worst case - User is on all Adidas ios, android app and Confirmed ios, Android app&lt;br&gt;Adidas - android - 2*2 = 4 request to api&lt;br&gt;Adidas - ios - 2*2 =4 request to api&lt;br&gt;Confirmed android - 2*2 - 4 request to api&lt;br&gt;Confirmed IOS - 2*2 - 4 request to api&lt;br&gt;In total : 4* 4 - 16 request for a user&lt;br&gt;&lt;br&gt;If user gets different identification euci( To be confirmed with Ravi ) for adidas and confirmed app : 16/2 = 8 request per user - Confirmed by Ravi&amp;nbsp; common euci for all&amp;nbsp; apps for a user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="555" y="595" width="990" height="170" as="geometry" />
+          <mxGeometry x="10" y="890" width="990" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Y6FfJB46YkExtziJTnNS-87" value="Confirmed by Nandani &amp;amp;&lt;br&gt;Madhuri" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="410" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-3" value="Appsflyer_AdidasAndroid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="390" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-4" value="Appsflyer_AdidasIOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="460" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-5" value="Appsflyer_ConfirmedAndroid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="535" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-6" value="Appsflyer_ConfirmedIOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="615" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-12" value="Case placed by .com, case gets COMPLETED with Success response if user has logged in from Adidas App Android&amp;nbsp; &amp;amp; its association exist at Appsflyer end,&lt;br&gt;&amp;nbsp;else USER&amp;nbsp; NOT FOUND, COMPLETED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="400" width="860" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-15" value="Case placed by from .com, case gets COMPLETED with Success response&amp;nbsp;if user has logged in from Adidas App IOS&amp;nbsp; &amp;amp; its association exist at Appsflyer end&amp;nbsp;&lt;br&gt;, else USER&amp;nbsp; NOT FOUND, COMPLETED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="472.5" width="860" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-16" value="Case placed by .com, case gets COMPLETED with Success response&amp;nbsp;&amp;nbsp;if user has logged in from Confirmed App Android&amp;nbsp; &amp;amp; its association exist at Appsflyer end,&lt;br&gt;&amp;nbsp;else USER&amp;nbsp; NOT FOUND, COMPLETED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="545" width="880" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRV5UQxoQtMh8vTWJYj-17" value="Case placed by .com, case gets COMPLETED with Success response&amp;nbsp;&amp;nbsp;if user has logged in from Confirmed App IOS&amp;nbsp; &amp;amp; its association exist at Appsflyer end, &lt;br&gt;else USER&amp;nbsp; NOT FOUND, COMPLETED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="627.5" width="860" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
