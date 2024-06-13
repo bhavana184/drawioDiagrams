@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T08:01:29.403Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.5.3" etag="gV9uQjVc-Tc5jJofEYFl" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T08:36:27.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="iJxcBfcdLOYFcS3mT1Ne" version="24.5.3" type="github">
   <diagram name="Page-1" id="iSUh21fuPCWicRUbdJ-n">
-    <mxGraphModel>
+    <mxGraphModel dx="1538" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-AdL0HPgq4Qx5IQEUwGl-1" target="-AdL0HPgq4Qx5IQEUwGl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-1" value="Hype Products" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="150" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-AdL0HPgq4Qx5IQEUwGl-2" target="-AdL0HPgq4Qx5IQEUwGl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-AdL0HPgq4Qx5IQEUwGl-2" target="-AdL0HPgq4Qx5IQEUwGl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-AdL0HPgq4Qx5IQEUwGl-2" target="-AdL0HPgq4Qx5IQEUwGl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-2" value="Flash Product&lt;div&gt;(Flash Product : Yes (On SFCC BM))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="260" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-AdL0HPgq4Qx5IQEUwGl-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-7" value="Yeezy Product&lt;div&gt;(Assigned to &quot;hidden&quot; category &quot;yeezy&quot; on SFCC BM)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="380" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-8" value="IvyPark Product&lt;div&gt;(Assigned to &quot;hidden&quot; category &quot;IvyPark&quot; on SFCC BM)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-15" value="Renders product details page via productDetails.isml&amp;nbsp;&lt;div&gt;Renders Image carousel on PDP via pdpImageCarousel.isml&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="275" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-18" value="Renders product details page via ivyParkProductDetails.isml&amp;nbsp;&lt;div&gt;Renders Image carousel on PDP via ImageCarousel.isml&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-19" value="Renders product details page via yeezyProductDetails.isml&amp;nbsp;&lt;div&gt;Renders Image carousel on PDP via ImageCarousel.isml&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="480" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.203;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-AdL0HPgq4Qx5IQEUwGl-8" target="-AdL0HPgq4Qx5IQEUwGl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-AdL0HPgq4Qx5IQEUwGl-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-22" value="Non-Flash Product&lt;div&gt;(Flash Product : No (On SFCC BM)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="560" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-23" value="Renders product details page via productDetails.isml&amp;nbsp;&lt;div&gt;Renders Image carousel on PDP via pdpImageCarousel.isml&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="690" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-AdL0HPgq4Qx5IQEUwGl-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-26" value="Some Yeezy Product on Production&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Flash Product : Yes (On SFCC BM)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(Not Assigned to &quot;hidden&quot; category &quot;yeezy&quot; on SFCC BM)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="560" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AdL0HPgq4Qx5IQEUwGl-30" value="Renders product details page via productDetails.isml&amp;nbsp;&lt;div&gt;Renders Image carousel on PDP via pdpImageCarousel.isml&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="690" width="350" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
